@@ -1,0 +1,471 @@
+E:\Projects\CallerInfo\CallerInfo\bin\CallerInfo.dll.config
+E:\Projects\CallerInfo\CallerInfo\bin\CallerInfo.dll
+E:\Projects\CallerInfo\CallerInfo\bin\CallerInfo.pdb
+E:\Projects\CallerInfo\CallerInfo\bin\Antlr3.Runtime.dll
+E:\Projects\CallerInfo\CallerInfo\bin\EntityFramework.dll
+E:\Projects\CallerInfo\CallerInfo\bin\EntityFramework.SqlServer.dll
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.dll
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.dll
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\CallerInfo\CallerInfo\bin\Newtonsoft.Json.dll
+E:\Projects\CallerInfo\CallerInfo\bin\Owin.dll
+E:\Projects\CallerInfo\CallerInfo\bin\System.Web.Helpers.dll
+E:\Projects\CallerInfo\CallerInfo\bin\System.Web.Mvc.dll
+E:\Projects\CallerInfo\CallerInfo\bin\System.Web.Optimization.dll
+E:\Projects\CallerInfo\CallerInfo\bin\System.Web.Razor.dll
+E:\Projects\CallerInfo\CallerInfo\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\CallerInfo\CallerInfo\bin\System.Web.WebPages.dll
+E:\Projects\CallerInfo\CallerInfo\bin\System.Web.WebPages.Razor.dll
+E:\Projects\CallerInfo\CallerInfo\bin\WebGrease.dll
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Projects\CallerInfo\CallerInfo\bin\System.Web.Helpers.xml
+E:\Projects\CallerInfo\CallerInfo\bin\System.Web.Mvc.xml
+E:\Projects\CallerInfo\CallerInfo\bin\System.Web.Optimization.xml
+E:\Projects\CallerInfo\CallerInfo\bin\System.Web.Razor.xml
+E:\Projects\CallerInfo\CallerInfo\bin\System.Web.WebPages.xml
+E:\Projects\CallerInfo\CallerInfo\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\CallerInfo\CallerInfo\bin\System.Web.WebPages.Razor.xml
+E:\Projects\CallerInfo\CallerInfo\bin\Antlr3.Runtime.pdb
+E:\Projects\CallerInfo\CallerInfo\bin\Newtonsoft.Json.xml
+E:\Projects\CallerInfo\CallerInfo\bin\EntityFramework.xml
+E:\Projects\CallerInfo\CallerInfo\bin\EntityFramework.SqlServer.xml
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.xml
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.xml
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\CallerInfo\CallerInfo\obj\Debug\CallerInfo.dll
+E:\Projects\CallerInfo\CallerInfo\obj\Debug\CallerInfo.pdb
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\CallerInfo.dll.config
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\CallerInfo.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\CallerInfo.pdb
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Antlr3.Runtime.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\EntityFramework.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\EntityFramework.SqlServer.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Owin.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Newtonsoft.Json.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Owin.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\System.Web.Helpers.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\System.Web.Mvc.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\System.Web.Optimization.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\System.Web.Razor.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\System.Web.WebPages.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\System.Web.WebPages.Razor.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\WebGrease.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\System.Web.Helpers.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\System.Web.Mvc.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\System.Web.Optimization.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\System.Web.Razor.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\System.Web.WebPages.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\System.Web.WebPages.Razor.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Antlr3.Runtime.pdb
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Newtonsoft.Json.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\EntityFramework.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\EntityFramework.SqlServer.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Owin.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\obj\Debug\CallerInfo.dll
+E:\Projects\Caller\Updated\CallerInfo\CallerInfo\obj\Debug\CallerInfo.pdb
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\obj\Debug\CallerInfo.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\obj\Debug\CallerInfo.pdb
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\CallerInfo.dll.config
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\CallerInfo.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\CallerInfo.pdb
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Antlr3.Runtime.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\EntityFramework.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\EntityFramework.SqlServer.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Owin.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Newtonsoft.Json.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Owin.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\System.Web.Helpers.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\System.Web.Mvc.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\System.Web.Optimization.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\System.Web.Razor.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\System.Web.WebPages.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\System.Web.WebPages.Razor.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\WebGrease.dll
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\System.Web.Helpers.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\System.Web.Mvc.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\System.Web.Optimization.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\System.Web.Razor.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\System.Web.WebPages.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\System.Web.WebPages.Razor.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Antlr3.Runtime.pdb
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Newtonsoft.Json.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\EntityFramework.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\EntityFramework.SqlServer.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Owin.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\CRUD Using SignalR\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\CallerInfo.dll.config
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\CallerInfo.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\CallerInfo.pdb
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Antlr3.Runtime.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\EntityFramework.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\EntityFramework.SqlServer.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Owin.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Newtonsoft.Json.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Owin.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\System.Web.Helpers.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\System.Web.Mvc.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\System.Web.Optimization.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\System.Web.Razor.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\System.Web.WebPages.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\System.Web.WebPages.Razor.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\WebGrease.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\EntityFramework.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\EntityFramework.SqlServer.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\System.Web.Helpers.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\System.Web.Mvc.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\System.Web.Optimization.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\System.Web.Razor.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\System.Web.WebPages.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\System.Web.WebPages.Razor.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Antlr3.Runtime.pdb
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Newtonsoft.Json.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Owin.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\obj\Debug\CallerInfo.csprojResolveAssemblyReference.cache
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\obj\Debug\CallerInfo.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\CallerInfo\CallerInfo\obj\Debug\CallerInfo.pdb
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\CallerInfo.dll.config
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\CallerInfo.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\CallerInfo.pdb
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Antlr3.Runtime.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\EntityFramework.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\EntityFramework.SqlServer.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Google.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Web.Infrastructure.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Newtonsoft.Json.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Owin.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.Helpers.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.Mvc.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.Optimization.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.Razor.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.WebPages.Deployment.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.WebPages.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.WebPages.Razor.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\WebGrease.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\EntityFramework.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\EntityFramework.SqlServer.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.Helpers.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.Mvc.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.Optimization.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.Razor.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.WebPages.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.WebPages.Deployment.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.WebPages.Razor.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Antlr3.Runtime.pdb
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Newtonsoft.Json.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Google.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\obj\Debug\CallerInfo.csprojResolveAssemblyReference.cache
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\obj\Debug\CallerInfo.dll
+C:\Temp\Papon13\CallerInfo\CallerInfo\CallerInfo\obj\Debug\CallerInfo.pdb
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\CallerInfo.dll.config
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\CallerInfo.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\CallerInfo.pdb
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Antlr3.Runtime.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\EntityFramework.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\EntityFramework.SqlServer.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Newtonsoft.Json.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Owin.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.Helpers.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.Mvc.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.Optimization.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.Razor.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.WebPages.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.WebPages.Razor.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\WebGrease.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\EntityFramework.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\EntityFramework.SqlServer.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.Helpers.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.Mvc.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.Optimization.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.Razor.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.WebPages.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\System.Web.WebPages.Razor.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Antlr3.Runtime.pdb
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Newtonsoft.Json.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\obj\Debug\CallerInfo.csprojResolveAssemblyReference.cache
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\obj\Debug\CallerInfo.dll
+E:\Projects\CRUD Using SignalR\K2AM_TradeImport\New folder (2)\CallerInfo\CallerInfo\CallerInfo\obj\Debug\CallerInfo.pdb
+E:\Projects\CallerInfo\CallerInfo\obj\Debug\CallerInfo.csprojResolveAssemblyReference.cache
+D:\Projects\CallerInfo\CallerInfo\bin\CallerInfo.dll.config
+D:\Projects\CallerInfo\CallerInfo\bin\CallerInfo.dll
+D:\Projects\CallerInfo\CallerInfo\bin\CallerInfo.pdb
+D:\Projects\CallerInfo\CallerInfo\bin\Antlr3.Runtime.dll
+D:\Projects\CallerInfo\CallerInfo\bin\EntityFramework.dll
+D:\Projects\CallerInfo\CallerInfo\bin\EntityFramework.SqlServer.dll
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.dll
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.dll
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\CallerInfo\CallerInfo\bin\Newtonsoft.Json.dll
+D:\Projects\CallerInfo\CallerInfo\bin\Owin.dll
+D:\Projects\CallerInfo\CallerInfo\bin\System.Web.Helpers.dll
+D:\Projects\CallerInfo\CallerInfo\bin\System.Web.Mvc.dll
+D:\Projects\CallerInfo\CallerInfo\bin\System.Web.Optimization.dll
+D:\Projects\CallerInfo\CallerInfo\bin\System.Web.Razor.dll
+D:\Projects\CallerInfo\CallerInfo\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\CallerInfo\CallerInfo\bin\System.Web.WebPages.dll
+D:\Projects\CallerInfo\CallerInfo\bin\System.Web.WebPages.Razor.dll
+D:\Projects\CallerInfo\CallerInfo\bin\WebGrease.dll
+D:\Projects\CallerInfo\CallerInfo\bin\EntityFramework.xml
+D:\Projects\CallerInfo\CallerInfo\bin\EntityFramework.SqlServer.xml
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Projects\CallerInfo\CallerInfo\bin\System.Web.Helpers.xml
+D:\Projects\CallerInfo\CallerInfo\bin\System.Web.Mvc.xml
+D:\Projects\CallerInfo\CallerInfo\bin\System.Web.Optimization.xml
+D:\Projects\CallerInfo\CallerInfo\bin\System.Web.Razor.xml
+D:\Projects\CallerInfo\CallerInfo\bin\System.Web.WebPages.xml
+D:\Projects\CallerInfo\CallerInfo\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\CallerInfo\CallerInfo\bin\System.Web.WebPages.Razor.xml
+D:\Projects\CallerInfo\CallerInfo\bin\Antlr3.Runtime.pdb
+D:\Projects\CallerInfo\CallerInfo\bin\Newtonsoft.Json.xml
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.xml
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.xml
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\CallerInfo\CallerInfo\obj\Debug\CallerInfo.csprojResolveAssemblyReference.cache
+D:\Projects\CallerInfo\CallerInfo\obj\Debug\CallerInfo.dll
+D:\Projects\CallerInfo\CallerInfo\obj\Debug\CallerInfo.pdb
+F:\CallerInfo\CallerInfo\bin\CallerInfo.dll.config
+F:\CallerInfo\CallerInfo\bin\CallerInfo.dll
+F:\CallerInfo\CallerInfo\bin\CallerInfo.pdb
+F:\CallerInfo\CallerInfo\bin\Antlr3.Runtime.dll
+F:\CallerInfo\CallerInfo\bin\EntityFramework.dll
+F:\CallerInfo\CallerInfo\bin\EntityFramework.SqlServer.dll
+F:\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Core.dll
+F:\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\CallerInfo\CallerInfo\bin\Microsoft.Owin.dll
+F:\CallerInfo\CallerInfo\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Cookies.dll
+F:\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.dll
+F:\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Facebook.dll
+F:\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Google.dll
+F:\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.OAuth.dll
+F:\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Twitter.dll
+F:\CallerInfo\CallerInfo\bin\Microsoft.Web.Infrastructure.dll
+F:\CallerInfo\CallerInfo\bin\Newtonsoft.Json.dll
+F:\CallerInfo\CallerInfo\bin\Owin.dll
+F:\CallerInfo\CallerInfo\bin\System.Web.Helpers.dll
+F:\CallerInfo\CallerInfo\bin\System.Web.Mvc.dll
+F:\CallerInfo\CallerInfo\bin\System.Web.Optimization.dll
+F:\CallerInfo\CallerInfo\bin\System.Web.Razor.dll
+F:\CallerInfo\CallerInfo\bin\System.Web.WebPages.Deployment.dll
+F:\CallerInfo\CallerInfo\bin\System.Web.WebPages.dll
+F:\CallerInfo\CallerInfo\bin\System.Web.WebPages.Razor.dll
+F:\CallerInfo\CallerInfo\bin\WebGrease.dll
+F:\CallerInfo\CallerInfo\bin\EntityFramework.xml
+F:\CallerInfo\CallerInfo\bin\EntityFramework.SqlServer.xml
+F:\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\CallerInfo\CallerInfo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\CallerInfo\CallerInfo\bin\System.Web.Helpers.xml
+F:\CallerInfo\CallerInfo\bin\System.Web.Mvc.xml
+F:\CallerInfo\CallerInfo\bin\System.Web.Optimization.xml
+F:\CallerInfo\CallerInfo\bin\System.Web.Razor.xml
+F:\CallerInfo\CallerInfo\bin\System.Web.WebPages.xml
+F:\CallerInfo\CallerInfo\bin\System.Web.WebPages.Deployment.xml
+F:\CallerInfo\CallerInfo\bin\System.Web.WebPages.Razor.xml
+F:\CallerInfo\CallerInfo\bin\Antlr3.Runtime.pdb
+F:\CallerInfo\CallerInfo\bin\Newtonsoft.Json.xml
+F:\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Core.xml
+F:\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\CallerInfo\CallerInfo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\CallerInfo\CallerInfo\bin\Microsoft.Owin.xml
+F:\CallerInfo\CallerInfo\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.xml
+F:\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Facebook.xml
+F:\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Cookies.xml
+F:\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.OAuth.xml
+F:\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Google.xml
+F:\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.Twitter.xml
+F:\CallerInfo\CallerInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\CallerInfo\CallerInfo\obj\Debug\CallerInfo.csprojResolveAssemblyReference.cache
+F:\CallerInfo\CallerInfo\obj\Debug\CallerInfo.dll
+F:\CallerInfo\CallerInfo\obj\Debug\CallerInfo.pdb
+F:\CallerInfo\CallerInfo\obj\Debug\CallerInfo.csproj.CoreCompileInputs.cache

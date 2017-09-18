@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CRUDModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="TradingLimits">
+    <Key>
+      <PropertyRef Name="ManagerEmail" />
+      <PropertyRef Name="LimitHardOrSoft" />
+      <PropertyRef Name="LimitType" />
+      <PropertyRef Name="LimitCurrencyCode" />
+    </Key>
+    <Property Name="ManagerEmail" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="LimitHardOrSoft" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="LimitType" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="LimitCurrencyCode" Type="char" MaxLength="3" Nullable="false" />
+    <Property Name="LimitValue" Type="varchar" MaxLength="50" />
+    <Property Name="LimitOverride" Type="bit" Nullable="false" />
+    <Property Name="CreateDateTime" Type="datetime" Nullable="false" />
+    <Property Name="ModifiedDateTime" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="CRUDModelStoreContainer">
+    <EntitySet Name="TradingLimits" EntityType="Self.TradingLimits" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

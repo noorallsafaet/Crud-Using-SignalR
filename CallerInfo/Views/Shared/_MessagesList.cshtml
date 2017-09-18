@@ -1,0 +1,107 @@
+﻿@model IEnumerable<CallerInfo.Models.Messages>
+<p>
+    @* @Html.ActionLink("Create New", "Create")*@
+</p>
+<style>
+    .custom {
+        cursor: url(Images/images.jpg), auto;
+    }
+</style>
+
+
+<table class="table scroll">
+    <tr>
+        <th>
+            @*@Html.DisplayNameFor(model => model.MessageID)*@
+        Email
+    </th>
+    <th>
+        @*   @Html.DisplayNameFor(model => model.Message)*@
+       LHS
+    </th>
+    <th>
+        LT
+            @*@Html.DisplayNameFor(model => model.EmptyMessage)*@
+        </th>
+    <th>
+        @* @Html.DisplayNameFor(model => model.MessageDate)*@
+        LCC
+    </th>
+
+    <th>
+        @* @Html.DisplayNameFor(model => model.MessageDate)*@
+        LV
+    </th>
+
+        <th>
+            @* @Html.DisplayNameFor(model => model.MessageDate)*@
+            LO
+        </th>
+
+        <th>
+            @* @Html.DisplayNameFor(model => model.MessageDate)*@
+            CDT
+        </th>
+
+        <th>
+            @* @Html.DisplayNameFor(model => model.MessageDate)*@
+            MDT
+        </th>
+
+        <th>
+            @* @Html.DisplayNameFor(model => model.MessageDate)*@
+            Action
+        </th>
+</tr>
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            <input id ="EmailValue" type="hidden" value="@Html.DisplayFor(modelItem => item.ManagerEmail)"/>
+            @Html.DisplayFor(modelItem => item.ManagerEmail)
+        </td>
+        <td>
+            <input id="LimitHardOrSoftValue" type="hidden" value="@Html.DisplayFor(modelItem => item.LimitHardOrSoft)" />
+            @Html.DisplayFor(modelItem => item.LimitHardOrSoft)
+        </td>
+        @*<th>
+                @Html.DisplayFor(modelItem => item.EmptyMessage)
+            </th>*@
+        <td>
+            <input id="LimitTypeValue" type="hidden" value="@Html.DisplayFor(modelItem => item.LimitType)" />
+            @Html.DisplayFor(modelItem => item.LimitType)
+        </td>
+
+        <td>
+            <input id="LimitCurrencyCodeValue" type="hidden" value="@Html.DisplayFor(modelItem => item.LimitCurrencyCode)" />
+            @Html.DisplayFor(modelItem => item.LimitCurrencyCode)
+        </td>
+
+        <td>
+            <input id="LimitValueValue" type="hidden" value="@Html.DisplayFor(modelItem => item.LimitValue)" />
+            @Html.DisplayFor(modelItem => item.LimitValue)
+        </td>
+
+        <td>           
+          
+            @Html.DisplayFor(modelItem => item.LimitOverride)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.CreateDateTime)
+        </td>
+
+        <td>
+           @Html.DisplayFor(modelItem => item.ModifiedDateTime)
+        </td>
+        <td>
+            @*@Html.ActionLink("Edit", "Edit", "TradingLimits", new { id = item.ManagerEmail }, new { @class = "lnkEdit" }) |
+            @Html.ActionLink("Details", "Details", "TradingLimits", new { id = item.ManagerEmail }, new { @class = "lnkDetail" }) |
+            @Html.ActionLink("Delete", "Delete", "TradingLimits", new { id = item.ManagerEmail }, new { @class = "lnkDelete" })*@
+            <input id="btnSelect" type="button" value="Select" onclick="bindRecordToEdit(this);" class="btn btn-warning" />
+            <input id="btnDelete" type="button" value="Remove" onclick="Delete(this);" class="btn btn-danger"/>
+        </td>
+    </tr>
+}
+</table>
+<br />

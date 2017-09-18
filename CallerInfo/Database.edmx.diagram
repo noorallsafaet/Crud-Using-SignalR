@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="fb27c7c199284ddd8d0114da7314d1cc" Name="Diagram1">
+        <EntityTypeShape EntityType="K2AM_TradeImportModel.ems_ust_TradingLimits" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="K2AM_TradeImportModel.C__MigrationHistory" Width="1.5" PointX="0.75" PointY="4.75" />
+        <EntityTypeShape EntityType="K2AM_TradeImportModel.AspNet_SqlCacheTablesForChangeNotification" Width="1.5" PointX="2.75" PointY="5.75" />
+        <EntityTypeShape EntityType="K2AM_TradeImportModel.AspNetRole" Width="1.5" PointX="3.75" PointY="2.5" />
+        <EntityTypeShape EntityType="K2AM_TradeImportModel.AspNetUserClaim" Width="1.5" PointX="8.25" PointY="1" />
+        <EntityTypeShape EntityType="K2AM_TradeImportModel.AspNetUserLogin" Width="1.5" PointX="8.25" PointY="3.75" />
+        <EntityTypeShape EntityType="K2AM_TradeImportModel.AspNetUser" Width="1.5" PointX="6" PointY="1.375" />
+        <EntityTypeShape EntityType="K2AM_TradeImportModel.Calling" Width="1.5" PointX="4.75" PointY="6.75" />
+        <EntityTypeShape EntityType="K2AM_TradeImportModel.Customer" Width="1.5" PointX="6.75" PointY="6.75" />
+        <AssociationConnector Association="K2AM_TradeImportModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" />
+        <AssociationConnector Association="K2AM_TradeImportModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" />
+        <AssociationConnector Association="K2AM_TradeImportModel.AspNetUserRoles" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

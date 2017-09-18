@@ -1,0 +1,78 @@
+﻿@model IEnumerable<CallerInfo.Models.Messages>
+<p>
+    @* @Html.ActionLink("Create New", "Create")*@
+</p>
+<style>
+    .custom {
+        cursor: url(Images/images.jpg), auto;
+    }
+</style>
+
+<div>
+    <table>
+        <tr>
+            <td>
+                @* <input id="Text1" type="text" />*@
+                @TempData["message"]
+            </td>
+        </tr>
+    </table>
+</div>
+
+<table class="table scroll">
+    <tr>
+        <th>
+            @*@Html.DisplayNameFor(model => model.MessageID)*@
+        Calling ID
+    </th>
+    <th>
+        @*   @Html.DisplayNameFor(model => model.Message)*@
+        Phone Number
+    </th>
+    @*<th>
+            @Html.DisplayNameFor(model => model.EmptyMessage)
+        </th>*@
+    <th>
+        @* @Html.DisplayNameFor(model => model.MessageDate)*@
+        Date
+    </th>
+
+    <th>
+        @* @Html.DisplayNameFor(model => model.MessageDate)*@
+        Action
+    </th>
+
+</tr>
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.MessageID)
+            <input id="Hidden1" type="hidden" value=@Html.DisplayFor(modelItem => item.MessageID) />
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Message)
+        </td>
+        @*<th>
+                @Html.DisplayFor(modelItem => item.EmptyMessage)
+            </th>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.MessageDate)
+        </td>
+        <td>
+
+            @*<img src="Images/images.jpg" alt="" onclick="bindRecordToEdit();" style="cursor:pointer; width:30px; height:30px;" />*@
+
+            @*@Html.ActionLink("Proceed", "Proceed", "Home/Contact")*@
+            |
+            @Html.ActionLink("Proceed", "Details", "Customers", new { id = item.Message }, null)
+            @*  *@|
+            @Html.ActionLink("Delete", "Delete", new { id = item.MessageID })
+
+            @*@Html.ActionLink("Edit", "Edit")
+                @Html.ActionLink("Delete", "Delete")*@
+        </td>
+    </tr>
+}
+</table>
+<br />

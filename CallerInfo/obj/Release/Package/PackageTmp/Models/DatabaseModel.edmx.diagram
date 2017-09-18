@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d49bb960021e42799d5a9fd5fcaa257a" Name="Diagram1">
+        <EntityTypeShape EntityType="CallerModel.C__MigrationHistory" Width="1.5" PointX="5.75" PointY="6.75" />
+        <EntityTypeShape EntityType="CallerModel.Calling" Width="1.5" PointX="3" PointY="6.875" />
+        <EntityTypeShape EntityType="CallerModel.User" Width="1.5" PointX="0.75" PointY="6.875" />
+        <AssociationConnector Association="CallerModel.FK_Calling_Users" />
+        <EntityTypeShape EntityType="CallerModel.AspNet_SqlCacheTablesForChangeNotification" Width="1.5" PointX="7.75" PointY="0.75" />
+        <EntityTypeShape EntityType="CallerModel.AspNetRole" Width="1.5" PointX="0.75" PointY="2.5" />
+        <EntityTypeShape EntityType="CallerModel.AspNetUserClaim" Width="1.5" PointX="5.25" PointY="3.625" />
+        <EntityTypeShape EntityType="CallerModel.AspNetUserLogin" Width="1.5" PointX="5.25" PointY="1" />
+        <EntityTypeShape EntityType="CallerModel.AspNetUser" Width="1.5" PointX="3" PointY="1.375" />
+        <EntityTypeShape EntityType="CallerModel.Customer" Width="1.5" PointX="8.75" PointY="3.75" />
+        <AssociationConnector Association="CallerModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" />
+        <AssociationConnector Association="CallerModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" />
+        <AssociationConnector Association="CallerModel.AspNetUserRoles" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
